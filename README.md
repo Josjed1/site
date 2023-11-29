@@ -1,2 +1,1 @@
-# site
-This is my website I made for CS234 at SIUE
+# These are picture of the website I have developed
